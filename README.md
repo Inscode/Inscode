@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps Engineer | 🔐 CI/CD Specialist | ☁️ Cloud Native Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="300"/>
 </p>
 
 ---
