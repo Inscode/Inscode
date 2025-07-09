@@ -2,7 +2,7 @@
 <h3 align="center">🚀 DevOps Engineer | 🔐 CI/CD Specialist | ☁️ Cloud Native Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="300"/>
 </p>
 
 ---
@@ -31,14 +31,6 @@
 
 ---
 
-## 🧠 Certifications
-
-- ✅ [AWS Certified Cloud Practitioner](#)
-- ✅ [Docker Certified Associate](#)
-- ✅ [Linux Foundation Certified SysAdmin](#)
-
----
-
 ## 🧪 Currently Learning
 
 - 🔧 GitOps with ArgoCD
@@ -48,21 +40,10 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [`jenkins-pipeline-demo`](https://github.com/Inscode/jenkins-pipeline-demo) | CI/CD pipeline for a Java app using Jenkins |
-| [`k8s-deployments`](https://github.com/Inscode/k8s-deployments) | Real-world Kubernetes manifests for apps |
-| [`devops-roadmap`](https://github.com/Inscode/devops-roadmap) | A visual and practical roadmap for learning DevOps |
-
----
-
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-NAME)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=internet-archive&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/insaf-ahmedh/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:inshafahmedh@gmail.com)
 
 ---
 
