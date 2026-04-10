@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/insaf-ahmedh/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:inshafahmedh@gmail.com">
+  <a href="mailto:insaf.ahmedh@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://inscode.github.io/">
@@ -111,5 +111,5 @@
 If you're hiring or know someone who is, feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/insaf-ahmedh/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:inshafahmedh@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:insaf.ahmedh@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://inscode.github.io/)
