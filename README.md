@@ -22,15 +22,17 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 AI Resume Screening System
-> NLP-powered resume matcher that scores resumes against job descriptions, highlights keyword gaps, and gives improvement recommendations.
+### 🛒 Ecommerce Site — Full-Stack E-Commerce Platform with AI
+> A production-grade e-commerce platform for retail and wholesale kitchenware, featuring role-based pricing, AI-powered smart search, and an integrated chatbot.
 
-- Uploads PDF/DOCX resumes and extracts text automatically
-- Generates a relevance score (0–100%) based on skill match and keyword alignment
-- Provides personalized suggestions to improve match score
-- **Stack:** Java · Spring Boot · React · Python · NLP Embeddings · PostgreSQL · Docker
+- Dual pricing model — retail and wholesale prices switch automatically based on JWT-authenticated user role
+- AI chatbot for product assistance powered by Google Gemini
+- Smart semantic search using pgvector and HuggingFace embeddings
+- Admin dashboard with real-time sales stats, order management, and product control
+- Shopping cart with promo code support, free delivery threshold, and localStorage persistence
+- **Stack:** Angular 21 · Spring Boot 3 · PostgreSQL · pgvector · JWT · Cloudinary · Google Gemini
 
-🔗 [GitHub](https://github.com/Inscode/ai-resume-screening-system)
+🔗 [Live Demo](https://ghanimenterprises.lk) · [Frontend](https://github.com/Inscode/ecommerce-angular-springboot) · [Backend](https://github.com/Inscode/ghanim-enterprises-api)
 
 ---
 
@@ -44,6 +46,18 @@
 - **Stack:** Java · Spring Boot 3 · React 18 · PostgreSQL · Docker · Railway · Vercel
 
 🔗 [Live Demo](https://job-tracker-hazel.vercel.app/) · [GitHub](https://github.com/Inscode/job-tracker)
+
+---
+
+### 🔍 AI Resume Screening System
+> NLP-powered resume matcher that scores resumes against job descriptions, highlights keyword gaps, and gives improvement recommendations.
+
+- Uploads PDF/DOCX resumes and extracts text automatically
+- Generates a relevance score (0–100%) based on skill match and keyword alignment
+- Provides personalized suggestions to improve match score
+- **Stack:** Java · Spring Boot · React · Python · NLP Embeddings · PostgreSQL · Docker
+
+🔗 [GitHub](https://github.com/Inscode/ai-resume-screening-system)
 
 ---
 
